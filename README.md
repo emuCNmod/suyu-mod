@@ -1,3 +1,12 @@
+<!--
+SPDX-FileCopyrightText: 2024 suyu emulator project
+SPDX-License-Identifier: GPL v3
+-->
+
+**Note**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
+
+We're in need of developers. Please join our Discord server below if you want to contribute!
+This repo is based on Yuzu EA 4176.
 
 <hr />
 
@@ -8,6 +17,24 @@
   <b>suyu</b>
   <br>
 </h1>
+
+<h4 align="center"><b>suyu</b> is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu.
+<br>
+It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android.
+</h4>
+
+<p align="center">
+  <a href="https://discord.gg/suyu">Discord</a> |
+  <a href="#status">Status</a> |
+  <a href="#development">Development</a> |
+  <a href="#downloads">Downloads</a> |
+  <a href="#building">Building</a> |
+  <a href="#support">Support</a> |
+  <a href="#license">License</a> |
+  <a href="https://gitlab.com/suyu-emu/suyu/-/pipelines">Pipelines</a>
+</p>
+
+## Status
 
 
 suyu官方:https://gitlab.com/suyu-emu/suyu
