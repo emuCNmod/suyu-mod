@@ -14,22 +14,6 @@ SPDX-License-Identifier: GPL v3
   <br>
 </h1>
 
-<h4 align="center"><b>suyu</b> is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu.
-<br>
-It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android.
-</h4>
-
-<p align="center">
-  <a href="https://discord.gg/suyu">Discord</a> |
-  <a href="#status">Status</a> |
-  <a href="#development">Development</a> |
-  <a href="#downloads">Downloads</a> |
-  <a href="#building">Building</a> |
-  <a href="#support">Support</a> |
-  <a href="#license">License</a> |
-  <a href="https://gitlab.com/suyu-emu/suyu/-/pipelines">Pipelines</a>
-</p>
-
 ## 说明
 
 
