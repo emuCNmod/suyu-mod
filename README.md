@@ -3,10 +3,6 @@ SPDX-FileCopyrightText: 2024 suyu emulator project
 SPDX-License-Identifier: GPL v3
 -->
 
-**Note**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
-
-We're in need of developers. Please join our Discord server below if you want to contribute!
-This repo is based on Yuzu EA 4176.
 
 <hr />
 
@@ -34,7 +30,7 @@ It is written in C++ with portability in mind, and we're actively working on bui
   <a href="https://gitlab.com/suyu-emu/suyu/-/pipelines">Pipelines</a>
 </p>
 
-## Status
+## 说明
 
 
 suyu官方:https://gitlab.com/suyu-emu/suyu
